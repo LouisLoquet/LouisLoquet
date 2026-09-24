@@ -40,17 +40,5 @@ Daarnaast ben ik gepassioneerd door system administration, homelab-infrastructuu
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JOUW_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" align="center" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOUW_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" align="center" />
-</p>
-
----
-
 ### 📫 Connect with me
-* LinkedIn: [Jouw LinkedIn Profiel](https://linkedin.com)
-* Website / Portfolio: [Jouw Website](https://jouwwebsite.be)
+* LinkedIn: [Jouw LinkedIn Profiel](https://www.linkedin.com/in/louis-loquet/)
