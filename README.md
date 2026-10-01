@@ -10,32 +10,31 @@ Ik ben een gedreven student **Toegepaste Informatica** aan HOGENT. Momenteel loo
 
 Daarnaast ben ik gepassioneerd door system administration, homelab-infrastructuur, netwerkengineering en automation (zoals Ansible).
 
+Vorig jaar schreef ik mijn bachelorproef over de transitie van manueel systeembeheer naar Infrastructure as Code (IaC) met Ansible.
+
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <p>
-  <!-- Talen -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- Talen & Scripting -->
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   
   <br>
 
-  <!-- Infrastructure & DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <!-- OS, Containers & DevOps -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
   <br>
 
-  <!-- Web & Cloud -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <!-- Netwerkinfrastructuur -->
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-%23EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.2id/badge/Aruba-%23FF8300?style=for-the-badge&logo=aruba&logoColor=white" />
 </p>
 
 ---
