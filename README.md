@@ -6,7 +6,7 @@
 <br>
 
 ### 👨‍💻 Over mij
-Ik ben een gedreven student **Toegepaste Informatica** aan HOGENT. Momenteel loop ik stage bij het **Server team van DEME Group**, waar ik mij verdiep in containerisatie en orchestratie met **Docker** en **Kubernetes**. 
+Ik ben een gedreven student **Toegepaste Informatica** aan HOGENT. Momenteel loop ik stage bij het **Server team van DEME Group**, waar ik mij verdiep in switching. 
 
 Daarnaast ben ik gepassioneerd door system administration, homelab-infrastructuur, netwerkengineering en automation (zoals Ansible).
 
@@ -41,4 +41,4 @@ Daarnaast ben ik gepassioneerd door system administration, homelab-infrastructuu
 ---
 
 ### 📫 Connect with me
-* LinkedIn: [Jouw LinkedIn Profiel](https://www.linkedin.com/in/louis-loquet/)
+* LinkedIn: [LinkedIn - Louis Loquet](https://www.linkedin.com/in/louis-loquet/)
