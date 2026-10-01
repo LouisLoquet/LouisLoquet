@@ -34,7 +34,7 @@ Vorig jaar schreef ik mijn bachelorproef over de transitie van manueel systeembe
   <!-- Netwerkinfrastructuur -->
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Fortinet-%23EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.2id/badge/Aruba-%23FF8300?style=for-the-badge&logo=aruba&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aruba-FF8300?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
