@@ -1,6 +1,6 @@
 <!-- Geanimeerde typing banner bovenaan -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi+there,+I'm+Louis+Loquet!+👋;Toegepaste+Informatica+Student+@+HOGENT;Server+Intern+@+DEME+Group;Linux,+Docker+%26+Automation+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi+there,+I'm+Louis+Loquet!+👋;Toegepaste+Informatica+Student+@+HOGENT;Network+Intern+@+DEME+Group;Linux,+%26+Automation+Enthusiast">
 </p>
 
 <br>
