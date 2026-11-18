@@ -39,5 +39,8 @@ Vorig jaar schreef ik mijn bachelorproef over de transitie van manueel systeembe
 
 ---
 
+### 🏅 My certifications
+* Credly: [Credly - Louis Loquet](https://www.credly.com/users/louis-loquet/badges/credly/)
+
 ### 📫 Connect with me
 * LinkedIn: [LinkedIn - Louis Loquet](https://www.linkedin.com/in/louis-loquet/)
