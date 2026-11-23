@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" role="img" aria-label="Louis Loquet — Network Engineering &amp; Infrastructure Console">
+  <defs>
+    <clipPath id="outer-clip">
+      <rect x="1" y="1" width="898" height="318" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer GitHub-Native Console Frame -->
+  <rect x="1" y="1" width="898" height="318" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Top Bar -->
+  <g clip-path="url(#outer-clip)">
+    <rect x="1" y="1" width="898" height="34" fill="#161b22"/>
+    <line x1="1" y1="35" x2="899" y2="35" stroke="#30363d" stroke-width="1"/>
+  </g>
+  <circle cx="22" cy="18" r="4.5" fill="#f85149" opacity="0.85"/>
+  <circle cx="37" cy="18" r="4.5" fill="#d29922" opacity="0.85"/>
+  <circle cx="52" cy="18" r="4.5" fill="#3fb950" opacity="0.85"/>
+  <text x="70" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8b949e">louis@netops-be: ~  —  ssh 22/tcp</text>
+
+  <!-- Link Up Status Pill -->
+  <rect x="758" y="9" width="124" height="19" rx="9.5" fill="#0d2818" stroke="#238636" stroke-width="1"/>
+  <circle cx="772" cy="18.5" r="3.5" fill="#3fb950"/>
+  <text x="782" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" fill="#3fb950">LINK UP • BE</text>
+
+  <!-- Left Panel: SSH Readout -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="24" y="68" font-size="12">
+      <tspan fill="#3fb950" font-weight="700">louis@netops</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff" font-weight="700">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">show identity --brief</tspan>
+    </text>
+
+    <line x1="24" y1="80" x2="454" y2="80" stroke="#21262d" stroke-width="1"/>
+
+    <text x="24" y="104" font-size="11.5" fill="#8b949e">NAME</text>
+    <text x="116" y="104" font-size="13" font-weight="700" fill="#f0f6fc">Louis Loquet</text>
+
+    <text x="24" y="129" font-size="11.5" fill="#8b949e">ROLE</text>
+    <text x="116" y="129" font-size="11.5" font-weight="600" fill="#58a6ff">Network Intern @ DEME Group</text>
+
+    <text x="24" y="154" font-size="11.5" fill="#8b949e">STUDY</text>
+    <text x="116" y="154" font-size="11.5" fill="#c9d1d9">Applied Computer Science @ HOGENT</text>
+
+    <text x="24" y="179" font-size="11.5" fill="#8b949e">THESIS</text>
+    <text x="116" y="179" font-size="11.5" fill="#c9d1d9">Manual SysAdmin -&gt; IaC (Ansible)</text>
+
+    <text x="24" y="204" font-size="11.5" fill="#8b949e">CERTS</text>
+    <text x="116" y="204" font-size="11.5">
+      <tspan fill="#3fb950" font-weight="700">Fortinet NSE 1</tspan><tspan fill="#8b949e">  •  </tspan><tspan fill="#d29922">NSE 2/3 [WIP]</tspan>
+    </text>
+
+    <text x="24" y="229" font-size="11.5" fill="#8b949e">SHIPPED</text>
+    <text x="116" y="229" font-size="11.5" fill="#f0883e">reinaertland.be (React • Express • CF)</text>
+
+    <text x="24" y="254" font-size="11.5" fill="#8b949e">REGION</text>
+    <text x="116" y="254" font-size="11.5" fill="#c9d1d9">East Flanders, Belgium (CET)</text>
+
+    <line x1="24" y1="272" x2="454" y2="272" stroke="#21262d" stroke-width="1"/>
+    <text x="24" y="294" font-size="11" fill="#8b949e"># Building infrastructure, not just configuring it.</text>
+  </g>
+
+  <!-- Vertical Divider -->
+  <line x1="472" y1="48" x2="472" y2="302" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Right Panel: Network Topology -->
+  <text x="492" y="66" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#8b949e">LOGICAL TOPOLOGY  /  CORE-SW-01</text>
+
+  <!-- Trunk Paths (Core Switch -> 4 VLANs) -->
+  <path d="M 606 168 C 632 168, 630 105, 658 105" fill="none" stroke="#f0883e" stroke-width="1.6" opacity="0.85"/>
+  <path d="M 606 180 C 632 180, 632 161, 658 161" fill="none" stroke="#38bdf8" stroke-width="1.6" opacity="0.85"/>
+  <path d="M 606 192 C 632 192, 632 217, 658 217" fill="none" stroke="#3fb950" stroke-width="1.6" opacity="0.85"/>
+  <path d="M 606 204 C 632 204, 630 273, 658 273" fill="none" stroke="#a371f7" stroke-width="1.6" opacity="0.85"/>
+
+  <!-- Core Switch Box -->
+  <g>
+    <rect x="492" y="142" width="114" height="88" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.4"/>
+    <!-- Port LEDs -->
+    <circle cx="510" cy="156" r="2.5" fill="#3fb950"/>
+    <circle cx="520" cy="156" r="2.5" fill="#3fb950"/>
+    <circle cx="530" cy="156" r="2.5" fill="#3fb950"/>
+    <circle cx="540" cy="156" r="2.5" fill="#3fb950"/>
+    <text x="588" y="159" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" fill="#8b949e">4x10G</text>
+    <line x1="502" y1="166" x2="596" y2="166" stroke="#21262d" stroke-width="1"/>
+    <text x="549" y="186" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="700" fill="#f0f6fc">CORE-SW-01</text>
+    <text x="549" y="203" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#8b949e">NetOps &amp; Code</text>
+    <text x="549" y="218" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#58a6ff">uptime: active</text>
+  </g>
+
+  <!-- VLAN 10 -->
+  <g>
+    <rect x="658" y="82" width="222" height="46" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <rect x="658" y="82" width="4" height="46" rx="2" fill="#f0883e"/>
+    <text x="672" y="101" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" fill="#f0f6fc">VLAN 10 • Enterprise Switching</text>
+    <text x="672" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#8b949e">Aruba • HPE • Fortinet • Central</text>
+  </g>
+
+  <!-- VLAN 20 -->
+  <g>
+    <rect x="658" y="138" width="222" height="46" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <rect x="658" y="138" width="4" height="46" rx="2" fill="#38bdf8"/>
+    <text x="672" y="157" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" fill="#f0f6fc">VLAN 20 • Remote WAN</text>
+    <text x="672" y="174" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#8b949e">Starlink • Peplink • InControl 2</text>
+  </g>
+
+  <!-- VLAN 30 -->
+  <g>
+    <rect x="658" y="194" width="222" height="46" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <rect x="658" y="194" width="4" height="46" rx="2" fill="#3fb950"/>
+    <text x="672" y="213" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" fill="#f0f6fc">VLAN 30 • Automation &amp; IaC</text>
+    <text x="672" y="230" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#8b949e">Ansible • Linux • Bash • Git</text>
+  </g>
+
+  <!-- VLAN 40 -->
+  <g>
+    <rect x="658" y="250" width="222" height="46" rx="7" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <rect x="658" y="250" width="4" height="46" rx="2" fill="#a371f7"/>
+    <text x="672" y="269" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" fill="#f0f6fc">VLAN 40 • Full-Stack &amp; Edge</text>
+    <text x="672" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#8b949e">TypeScript • React • Express • CF</text>
+  </g>
+</svg>
