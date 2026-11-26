@@ -37,8 +37,8 @@ Applied Computer Science student at **HOGENT** and Network Intern at **DEME Grou
       <code>Starlink</code> <code>Peplink</code> <code>InControl 2</code> <code>WAN</code> <code>Troubleshooting</code>
     </td>
     <td width="50%" valign="top">
-      <strong>Manual SysAdmin → Infrastructure as Code</strong> &nbsp;<code>THESIS</code><br />
-      <sub>Bachelor's Thesis — HOGENT Applied Computer Science</sub>
+      <strong><a href="https://github.com/LouisLoquet/Bachelorproef_25-26-LL">Manual SysAdmin → Infrastructure as Code</a></strong> &nbsp;<code>THESIS</code><br />
+      <sub><a href="https://github.com/LouisLoquet/Bachelorproef_25-26-LL">Bachelor's Thesis — HOGENT Applied Computer Science</a></sub>
       <br /><br />
       Research and implementation moving from ad-hoc manual server administration to version-controlled, reproducible configuration management across both Linux and Windows environments using Ansible roles and playbooks.
       <br /><br />
